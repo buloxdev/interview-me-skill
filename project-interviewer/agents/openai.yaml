@@ -1,0 +1,4 @@
+interface:
+  display_name: "Project Interviewer"
+  short_description: "Clarify project intent through deep interviews"
+  default_prompt: "Use $project-interviewer to interview me until you are highly confident about the project I actually want."
